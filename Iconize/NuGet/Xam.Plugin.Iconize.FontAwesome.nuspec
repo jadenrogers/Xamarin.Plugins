@@ -25,17 +25,11 @@
     </dependencies>
   </metadata>
   <files>
-    <!--UWP-->
-    <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.UWP\bin\Release\Plugin.Iconize.FontAwesome.UWP.dll" target="lib\UAP10\Plugin.Iconize.FontAwesome.UWP.dll" />
-    <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.UWP\bin\Release\Plugin.Iconize.FontAwesome.UWP.pdb" target="lib\UAP10\Plugin.Iconize.FontAwesome.UWP.pdb" />
-    <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.UWP\bin\Release\Plugin.Iconize.FontAwesome.UWP.pri" target="lib\UAP10\Plugin.Iconize.FontAwesome.UWP.pri" />
-    <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.UWP\bin\Release\Plugin.Iconize.FontAwesome.UWP.xml" target="lib\UAP10\Plugin.Iconize.FontAwesome.UWP.xml" />
-    
     <!--Xamarin.Android-->
     <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.Droid\bin\Release\Plugin.Iconize.FontAwesome.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.FontAwesome.Droid.dll" />
     <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.Droid\bin\Release\Plugin.Iconize.FontAwesome.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.FontAwesome.Droid.pdb" />
     <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.Droid\bin\Release\Plugin.Iconize.FontAwesome.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.FontAwesome.Droid.xml" />
-    
+
     <!--Xamarin.iOS-->
     <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.iOS\bin\iPhone\Release\Plugin.Iconize.FontAwesome.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.FontAwesome.iOS.dll" />
     <file src="Fonts\FontAwesome\Plugin.Iconize.FontAwesome.iOS\bin\iPhone\Release\Plugin.Iconize.FontAwesome.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.FontAwesome.iOS.xml" />

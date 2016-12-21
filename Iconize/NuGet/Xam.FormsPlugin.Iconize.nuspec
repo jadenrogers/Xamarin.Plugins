@@ -26,15 +26,6 @@
     <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.pdb" target="lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\FormsPlugin.Iconize.pdb" />
     <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.xml" target="lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\FormsPlugin.Iconize.xml" />
     
-    <!--UWP-->
-    <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.dll" target="lib\UAP10\FormsPlugin.Iconize.dll" />
-    <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.pdb" target="lib\UAP10\FormsPlugin.Iconize.pdb" />
-    <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.xml" target="lib\UAP10\FormsPlugin.Iconize.xml" />
-    <file src="FormsPlugin.Iconize.UWP\bin\Release\FormsPlugin.Iconize.UWP.dll" target="lib\UAP10\FormsPlugin.Iconize.UWP.dll" />
-    <file src="FormsPlugin.Iconize.UWP\bin\Release\FormsPlugin.Iconize.UWP.pdb" target="lib\UAP10\FormsPlugin.Iconize.UWP.pdb" />
-    <file src="FormsPlugin.Iconize.UWP\bin\Release\FormsPlugin.Iconize.UWP.pri" target="lib\UAP10\FormsPlugin.Iconize.UWP.pri" />
-    <file src="FormsPlugin.Iconize.UWP\bin\Release\FormsPlugin.Iconize.UWP.xml" target="lib\UAP10\FormsPlugin.Iconize.UWP.xml" />
-    
     <!--Xamarin.Android-->
     <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.dll" target="lib\MonoAndroid10\FormsPlugin.Iconize.dll" />
     <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.pdb" target="lib\MonoAndroid10\FormsPlugin.Iconize.pdb" />
@@ -42,7 +33,7 @@
     <file src="FormsPlugin.Iconize.Droid\bin\Release\FormsPlugin.Iconize.Droid.dll" target="lib\MonoAndroid10\FormsPlugin.Iconize.Droid.dll" />
     <file src="FormsPlugin.Iconize.Droid\bin\Release\FormsPlugin.Iconize.Droid.pdb" target="lib\MonoAndroid10\FormsPlugin.Iconize.Droid.pdb" />
     <file src="FormsPlugin.Iconize.Droid\bin\Release\FormsPlugin.Iconize.Droid.xml" target="lib\MonoAndroid10\FormsPlugin.Iconize.Droid.xml" />
-    
+
     <!--Xamarin.iOS-->
     <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.dll" target="lib\Xamarin.iOS10\FormsPlugin.Iconize.dll" />
     <file src="FormsPlugin.Iconize\bin\Release\FormsPlugin.Iconize.xml" target="lib\Xamarin.iOS10\FormsPlugin.Iconize.xml" />

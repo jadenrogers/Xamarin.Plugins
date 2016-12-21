@@ -25,17 +25,11 @@
     </dependencies>
   </metadata>
   <files>
-    <!--UWP-->
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.UWP\bin\Release\Plugin.Iconize.SimpleLineIcons.UWP.dll" target="lib\UAP10\Plugin.Iconize.SimpleLineIcons.UWP.dll" />
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.UWP\bin\Release\Plugin.Iconize.SimpleLineIcons.UWP.pdb" target="lib\UAP10\Plugin.Iconize.SimpleLineIcons.UWP.pdb" />
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.UWP\bin\Release\Plugin.Iconize.SimpleLineIcons.UWP.pri" target="lib\UAP10\Plugin.Iconize.SimpleLineIcons.UWP.pri" />
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.UWP\bin\Release\Plugin.Iconize.SimpleLineIcons.UWP.xml" target="lib\UAP10\Plugin.Iconize.SimpleLineIcons.UWP.xml" />
-    
     <!--Xamarin.Android-->
     <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.Droid\bin\Release\Plugin.Iconize.SimpleLineIcons.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.SimpleLineIcons.Droid.dll" />
     <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.Droid\bin\Release\Plugin.Iconize.SimpleLineIcons.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.SimpleLineIcons.Droid.pdb" />
     <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.Droid\bin\Release\Plugin.Iconize.SimpleLineIcons.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.SimpleLineIcons.Droid.xml" />
-    
+
     <!--Xamarin.iOS-->
     <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.iOS\bin\iPhone\Release\Plugin.Iconize.SimpleLineIcons.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.SimpleLineIcons.iOS.dll" />
     <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.iOS\bin\iPhone\Release\Plugin.Iconize.SimpleLineIcons.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.SimpleLineIcons.iOS.xml" />
