@@ -26,12 +26,11 @@
   </metadata>
   <files>
     <!--Xamarin.Android-->
-    <file src="Fonts\Entypo+\Plugin.Iconize.EntypoPlus.Droid\bin\Release\Plugin.Iconize.EntypoPlus.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.EntypoPlus.Droid.dll" />
-    <file src="Fonts\Entypo+\Plugin.Iconize.EntypoPlus.Droid\bin\Release\Plugin.Iconize.EntypoPlus.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.EntypoPlus.Droid.pdb" />
-    <file src="Fonts\Entypo+\Plugin.Iconize.EntypoPlus.Droid\bin\Release\Plugin.Iconize.EntypoPlus.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.EntypoPlus.Droid.xml" />
+    <file src="Fonts/Entypo+/Plugin.Iconize.EntypoPlus.Droid/bin/Release/Plugin.Iconize.EntypoPlus.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.EntypoPlus.Droid.dll" />
+    <file src="Fonts/Entypo+/Plugin.Iconize.EntypoPlus.Droid/bin/Release/Plugin.Iconize.EntypoPlus.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.EntypoPlus.Droid.xml" />
 
     <!--Xamarin.iOS-->
-    <file src="Fonts\Entypo+\Plugin.Iconize.EntypoPlus.iOS\bin\iPhone\Release\Plugin.Iconize.EntypoPlus.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.EntypoPlus.iOS.dll" />
-    <file src="Fonts\Entypo+\Plugin.Iconize.EntypoPlus.iOS\bin\iPhone\Release\Plugin.Iconize.EntypoPlus.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.EntypoPlus.iOS.xml" />
+    <file src="Fonts/Entypo+/Plugin.Iconize.EntypoPlus.iOS/bin/iPhone/Release/Plugin.Iconize.EntypoPlus.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.EntypoPlus.iOS.dll" />
+    <file src="Fonts/Entypo+/Plugin.Iconize.EntypoPlus.iOS/bin/iPhone/Release/Plugin.Iconize.EntypoPlus.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.EntypoPlus.iOS.xml" />
   </files>
 </package>

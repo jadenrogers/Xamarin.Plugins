@@ -26,12 +26,11 @@
   </metadata>
   <files>
     <!--Xamarin.Android-->
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.Droid\bin\Release\Plugin.Iconize.SimpleLineIcons.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.SimpleLineIcons.Droid.dll" />
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.Droid\bin\Release\Plugin.Iconize.SimpleLineIcons.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.SimpleLineIcons.Droid.pdb" />
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.Droid\bin\Release\Plugin.Iconize.SimpleLineIcons.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.SimpleLineIcons.Droid.xml" />
+    <file src="Fonts/SimpleLineIcons/Plugin.Iconize.SimpleLineIcons.Droid/bin/Release/Plugin.Iconize.SimpleLineIcons.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.SimpleLineIcons.Droid.dll" />
+    <file src="Fonts/SimpleLineIcons/Plugin.Iconize.SimpleLineIcons.Droid/bin/Release/Plugin.Iconize.SimpleLineIcons.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.SimpleLineIcons.Droid.xml" />
 
     <!--Xamarin.iOS-->
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.iOS\bin\iPhone\Release\Plugin.Iconize.SimpleLineIcons.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.SimpleLineIcons.iOS.dll" />
-    <file src="Fonts\SimpleLineIcons\Plugin.Iconize.SimpleLineIcons.iOS\bin\iPhone\Release\Plugin.Iconize.SimpleLineIcons.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.SimpleLineIcons.iOS.xml" />
+    <file src="Fonts/SimpleLineIcons/Plugin.Iconize.SimpleLineIcons.iOS/bin/iPhone/Release/Plugin.Iconize.SimpleLineIcons.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.SimpleLineIcons.iOS.dll" />
+    <file src="Fonts/SimpleLineIcons/Plugin.Iconize.SimpleLineIcons.iOS/bin/iPhone/Release/Plugin.Iconize.SimpleLineIcons.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.SimpleLineIcons.iOS.xml" />
   </files>
 </package>

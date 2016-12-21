@@ -26,12 +26,11 @@
   </metadata>
   <files>
     <!--Xamarin.Android-->
-    <file src="Fonts\Meteocons\Plugin.Iconize.Meteocons.Droid\bin\Release\Plugin.Iconize.Meteocons.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.Meteocons.Droid.dll" />
-    <file src="Fonts\Meteocons\Plugin.Iconize.Meteocons.Droid\bin\Release\Plugin.Iconize.Meteocons.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.Meteocons.Droid.pdb" />
-    <file src="Fonts\Meteocons\Plugin.Iconize.Meteocons.Droid\bin\Release\Plugin.Iconize.Meteocons.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.Meteocons.Droid.xml" />
+    <file src="Fonts/Meteocons/Plugin.Iconize.Meteocons.Droid/bin/Release/Plugin.Iconize.Meteocons.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.Meteocons.Droid.dll" />
+    <file src="Fonts/Meteocons/Plugin.Iconize.Meteocons.Droid/bin/Release/Plugin.Iconize.Meteocons.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.Meteocons.Droid.xml" />
 
     <!--Xamarin.iOS-->
-    <file src="Fonts\Meteocons\Plugin.Iconize.Meteocons.iOS\bin\iPhone\Release\Plugin.Iconize.Meteocons.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.Meteocons.iOS.dll" />
-    <file src="Fonts\Meteocons\Plugin.Iconize.Meteocons.iOS\bin\iPhone\Release\Plugin.Iconize.Meteocons.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.Meteocons.iOS.xml" />
+    <file src="Fonts/Meteocons/Plugin.Iconize.Meteocons.iOS/bin/iPhone/Release/Plugin.Iconize.Meteocons.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.Meteocons.iOS.dll" />
+    <file src="Fonts/Meteocons/Plugin.Iconize.Meteocons.iOS/bin/iPhone/Release/Plugin.Iconize.Meteocons.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.Meteocons.iOS.xml" />
   </files>
 </package>

@@ -26,12 +26,11 @@
   </metadata>
   <files>
     <!--Xamarin.Android-->
-    <file src="Fonts\Ionicons\Plugin.Iconize.Ionicons.Droid\bin\Release\Plugin.Iconize.Ionicons.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.Ionicons.Droid.dll" />
-    <file src="Fonts\Ionicons\Plugin.Iconize.Ionicons.Droid\bin\Release\Plugin.Iconize.Ionicons.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.Ionicons.Droid.pdb" />
-    <file src="Fonts\Ionicons\Plugin.Iconize.Ionicons.Droid\bin\Release\Plugin.Iconize.Ionicons.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.Ionicons.Droid.xml" />
+    <file src="Fonts/Ionicons/Plugin.Iconize.Ionicons.Droid/bin/Release/Plugin.Iconize.Ionicons.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.Ionicons.Droid.dll" />
+    <file src="Fonts/Ionicons/Plugin.Iconize.Ionicons.Droid/bin/Release/Plugin.Iconize.Ionicons.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.Ionicons.Droid.xml" />
 
     <!--Xamarin.iOS-->
-    <file src="Fonts\Ionicons\Plugin.Iconize.Ionicons.iOS\bin\iPhone\Release\Plugin.Iconize.Ionicons.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.Ionicons.iOS.dll" />
-    <file src="Fonts\Ionicons\Plugin.Iconize.Ionicons.iOS\bin\iPhone\Release\Plugin.Iconize.Ionicons.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.Ionicons.iOS.xml" />
+    <file src="Fonts/Ionicons/Plugin.Iconize.Ionicons.iOS/bin/iPhone/Release/Plugin.Iconize.Ionicons.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.Ionicons.iOS.dll" />
+    <file src="Fonts/Ionicons/Plugin.Iconize.Ionicons.iOS/bin/iPhone/Release/Plugin.Iconize.Ionicons.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.Ionicons.iOS.xml" />
   </files>
 </package>

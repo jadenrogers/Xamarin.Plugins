@@ -26,12 +26,11 @@
   </metadata>
   <files>
     <!--Xamarin.Android-->
-    <file src="Fonts\WeatherIcons\Plugin.Iconize.WeatherIcons.Droid\bin\Release\Plugin.Iconize.WeatherIcons.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.WeatherIcons.Droid.dll" />
-    <file src="Fonts\WeatherIcons\Plugin.Iconize.WeatherIcons.Droid\bin\Release\Plugin.Iconize.WeatherIcons.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.WeatherIcons.Droid.pdb" />
-    <file src="Fonts\WeatherIcons\Plugin.Iconize.WeatherIcons.Droid\bin\Release\Plugin.Iconize.WeatherIcons.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.WeatherIcons.Droid.xml" />
+    <file src="Fonts/WeatherIcons/Plugin.Iconize.WeatherIcons.Droid/bin/Release/Plugin.Iconize.WeatherIcons.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.WeatherIcons.Droid.dll" />
+    <file src="Fonts/WeatherIcons/Plugin.Iconize.WeatherIcons.Droid/bin/Release/Plugin.Iconize.WeatherIcons.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.WeatherIcons.Droid.xml" />
 
     <!--Xamarin.iOS-->
-    <file src="Fonts\WeatherIcons\Plugin.Iconize.WeatherIcons.iOS\bin\iPhone\Release\Plugin.Iconize.WeatherIcons.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.WeatherIcons.iOS.dll" />
-    <file src="Fonts\WeatherIcons\Plugin.Iconize.WeatherIcons.iOS\bin\iPhone\Release\Plugin.Iconize.WeatherIcons.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.WeatherIcons.iOS.xml" />
+    <file src="Fonts/WeatherIcons/Plugin.Iconize.WeatherIcons.iOS/bin/iPhone/Release/Plugin.Iconize.WeatherIcons.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.WeatherIcons.iOS.dll" />
+    <file src="Fonts/WeatherIcons/Plugin.Iconize.WeatherIcons.iOS/bin/iPhone/Release/Plugin.Iconize.WeatherIcons.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.WeatherIcons.iOS.xml" />
   </files>
 </package>

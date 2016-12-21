@@ -26,12 +26,11 @@
   </metadata>
   <files>
     <!--Xamarin.Android-->
-    <file src="Fonts\Typicons\Plugin.Iconize.Typicons.Droid\bin\Release\Plugin.Iconize.Typicons.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.Typicons.Droid.dll" />
-    <file src="Fonts\Typicons\Plugin.Iconize.Typicons.Droid\bin\Release\Plugin.Iconize.Typicons.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.Typicons.Droid.pdb" />
-    <file src="Fonts\Typicons\Plugin.Iconize.Typicons.Droid\bin\Release\Plugin.Iconize.Typicons.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.Typicons.Droid.xml" />
+    <file src="Fonts/Typicons/Plugin.Iconize.Typicons.Droid/bin/Release/Plugin.Iconize.Typicons.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.Typicons.Droid.dll" />
+    <file src="Fonts/Typicons/Plugin.Iconize.Typicons.Droid/bin/Release/Plugin.Iconize.Typicons.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.Typicons.Droid.xml" />
 
     <!--Xamarin.iOS-->
-    <file src="Fonts\Typicons\Plugin.Iconize.Typicons.iOS\bin\iPhone\Release\Plugin.Iconize.Typicons.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.Typicons.iOS.dll" />
-    <file src="Fonts\Typicons\Plugin.Iconize.Typicons.iOS\bin\iPhone\Release\Plugin.Iconize.Typicons.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.Typicons.iOS.xml" />
+    <file src="Fonts/Typicons/Plugin.Iconize.Typicons.iOS/bin/iPhone/Release/Plugin.Iconize.Typicons.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.Typicons.iOS.dll" />
+    <file src="Fonts/Typicons/Plugin.Iconize.Typicons.iOS/bin/iPhone/Release/Plugin.Iconize.Typicons.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.Typicons.iOS.xml" />
   </files>
 </package>

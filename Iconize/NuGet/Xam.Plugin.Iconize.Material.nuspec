@@ -26,12 +26,11 @@
   </metadata>
   <files>
     <!--Xamarin.Android-->
-    <file src="Fonts\Material\Plugin.Iconize.Material.Droid\bin\Release\Plugin.Iconize.Material.Droid.dll" target="lib\MonoAndroid10\Plugin.Iconize.Material.Droid.dll" />
-    <file src="Fonts\Material\Plugin.Iconize.Material.Droid\bin\Release\Plugin.Iconize.Material.Droid.pdb" target="lib\MonoAndroid10\Plugin.Iconize.Material.Droid.pdb" />
-    <file src="Fonts\Material\Plugin.Iconize.Material.Droid\bin\Release\Plugin.Iconize.Material.Droid.xml" target="lib\MonoAndroid10\Plugin.Iconize.Material.Droid.xml" />
+    <file src="Fonts/Material/Plugin.Iconize.Material.Droid/bin/Release/Plugin.Iconize.Material.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.Material.Droid.dll" />
+    <file src="Fonts/Material/Plugin.Iconize.Material.Droid/bin/Release/Plugin.Iconize.Material.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.Material.Droid.xml" />
 
     <!--Xamarin.iOS-->
-    <file src="Fonts\Material\Plugin.Iconize.Material.iOS\bin\iPhone\Release\Plugin.Iconize.Material.iOS.dll" target="lib\Xamarin.iOS10\Plugin.Iconize.Material.iOS.dll" />
-    <file src="Fonts\Material\Plugin.Iconize.Material.iOS\bin\iPhone\Release\Plugin.Iconize.Material.iOS.xml" target="lib\Xamarin.iOS10\Plugin.Iconize.Material.iOS.xml" />
+    <file src="Fonts/Material/Plugin.Iconize.Material.iOS/bin/iPhone/Release/Plugin.Iconize.Material.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.Material.iOS.dll" />
+    <file src="Fonts/Material/Plugin.Iconize.Material.iOS/bin/iPhone/Release/Plugin.Iconize.Material.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.Material.iOS.xml" />
   </files>
 </package>
