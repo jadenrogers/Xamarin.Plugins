@@ -1,5 +1,5 @@
-#addin nuget:?package=Cake.FileHelpers&version=1.0.3.2
-#addin nuget:?package=Cake.Xamarin&version=1.3.0.3
+#addin nuget:?package=Cake.FileHelpers
+#addin nuget:?package=Cake.Xamarin
 //////////////////////////////////////////////////////////////////////
 // ARGUMENTS
 //////////////////////////////////////////////////////////////////////

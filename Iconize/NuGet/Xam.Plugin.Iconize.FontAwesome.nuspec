@@ -26,11 +26,11 @@
   </metadata>
   <files>
     <!--Xamarin.Android-->
-    <file src="Fonts/FontAwesome/Plugin.Iconize.FontAwesome.Droid/bin/Release/Plugin.Iconize.FontAwesome.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.FontAwesome.Droid.dll" />
-    <file src="Fonts/FontAwesome/Plugin.Iconize.FontAwesome.Droid/bin/Release/Plugin.Iconize.FontAwesome.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.FontAwesome.Droid.xml" />
+    <file src="../Fonts/FontAwesome/Plugin.Iconize.FontAwesome.Droid/bin/Release/Plugin.Iconize.FontAwesome.Droid.dll" target="lib/MonoAndroid10/Plugin.Iconize.FontAwesome.Droid.dll" />
+    <file src="../Fonts/FontAwesome/Plugin.Iconize.FontAwesome.Droid/bin/Release/Plugin.Iconize.FontAwesome.Droid.xml" target="lib/MonoAndroid10/Plugin.Iconize.FontAwesome.Droid.xml" />
 
     <!--Xamarin.iOS-->
-    <file src="Fonts/FontAwesome/Plugin.Iconize.FontAwesome.iOS/bin/iPhone/Release/Plugin.Iconize.FontAwesome.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.FontAwesome.iOS.dll" />
-    <file src="Fonts/FontAwesome/Plugin.Iconize.FontAwesome.iOS/bin/iPhone/Release/Plugin.Iconize.FontAwesome.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.FontAwesome.iOS.xml" />
+    <file src="../Fonts/FontAwesome/Plugin.Iconize.FontAwesome.iOS/bin/iPhone/Release/Plugin.Iconize.FontAwesome.iOS.dll" target="lib/Xamarin.iOS10/Plugin.Iconize.FontAwesome.iOS.dll" />
+    <file src="../Fonts/FontAwesome/Plugin.Iconize.FontAwesome.iOS/bin/iPhone/Release/Plugin.Iconize.FontAwesome.iOS.xml" target="lib/Xamarin.iOS10/Plugin.Iconize.FontAwesome.iOS.xml" />
   </files>
 </package>
